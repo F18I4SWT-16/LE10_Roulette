@@ -16,5 +16,11 @@ namespace RouletteGame.Test.Unit
         {
             Assert.That(1, Is.EqualTo(1));
         }
+
+        [Test]
+        public void TestingTesties()
+        {
+            Assert.That(1, Is.EqualTo(1));
+        }
     }
 }
