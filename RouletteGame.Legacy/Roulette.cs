@@ -52,6 +52,7 @@ namespace RouletteGame.Legacy
             };
 
             _result = _fields[0];
+
         }
 
         public void Spin()
